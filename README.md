@@ -1,4 +1,4 @@
-# pytorch-mnist-VAE
+# pytorch-mnist-AE
 Classic AutoEncoder on the MNIST data set using the PyTorch
 
 
